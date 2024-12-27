@@ -1,6 +1,6 @@
 # Advanced Search Interface
 
-![Advanced Search Interface](./public/preview.png)
+
 
 A modern, feature-rich search interface built with React that enhances the Google search experience with advanced filters, voice search, and a beautiful UI.
 
@@ -18,7 +18,7 @@ A modern, feature-rich search interface built with React that enhances the Googl
 
 ## 🚀 Demo
 
-[Live Demo](https://advanced-search-interface.vercel.app)
+[Live Demo](https://razee4315.github.io/advanced-search-interface/)
 
 ## 🛠️ Tech Stack
 
@@ -97,21 +97,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Animations powered by [Framer Motion](https://www.framer.com/motion/)
 - Styling with [Tailwind CSS](https://tailwindcss.com/)
 
-## 📸 Screenshots
-
-<details>
-<summary>Click to expand</summary>
-
-### Light Mode
-![Light Mode](./public/light-mode.png)
-
-### Dark Mode
-![Dark Mode](./public/dark-mode.png)
-
-### Search Analytics
-![Analytics](./public/analytics.png)
-
-### Voice Search
-![Voice Search](./public/voice-search.png)
-
-</details>
